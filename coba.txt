@@ -1,5 +1,5 @@
 list 
-1.yasin
-2.pengko
+1.niko
+2.nann
 3.lalat
 4.hantu
