@@ -3,3 +3,6 @@ list
 2.nann
 3.lalat
 4.hantu
+5.jamal
+6.lulu
+7.kuklu
