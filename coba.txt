@@ -1,0 +1,5 @@
+list 
+1.ikan
+2.ayam
+3.lalat
+4.hantu
