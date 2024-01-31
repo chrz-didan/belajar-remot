@@ -1,5 +1,5 @@
 list 
-1.ikan
-2.ayam
+1.yasin
+2.pengko
 3.lalat
 4.hantu
